@@ -1,4 +1,4 @@
-# Melhorar o Pipeline de CI/CD com Jenkins
+# Melhorar a Pipeline de CI/CD com Jenkins
 
 ### Deploy Gradual (Canary/Blue-Green) 
 ### Implemente estratégias de deploy como Canary ou Blue-Green para validar novas versões em uma fração do tráfego antes de liberar para todos os usuários.
